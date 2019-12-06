@@ -1,0 +1,12 @@
+{
+    "name": "node-red-contrib-myHome",
+    "description": "My Home Automation System",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_AH-Berlin-0148.json",
+            "credentialsFile": "flows_AH-Berlin-0148_cred.json"
+        }
+    }
+}
